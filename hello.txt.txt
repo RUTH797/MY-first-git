@@ -1,1 +1,2 @@
-Hello Git!
+Hello fron vs code
+this is my first edit
