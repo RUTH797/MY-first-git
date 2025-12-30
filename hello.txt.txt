@@ -1,3 +1,3 @@
-Hello fron vs code
+Hello fron vs code.
 this is my first edit.
 I'm a CSE student passionate about coding and web development. I love learning new technologies.
